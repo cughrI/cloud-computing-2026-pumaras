@@ -19,18 +19,26 @@ As part of CloudNova Technologies' Cloud Evaluation Team, this lab explored AWS,
 
 **Operating System** — `cat /etc/os-release`
 ```
+<img width="663" height="223" alt="image" src="https://github.com/user-attachments/assets/0bffec90-b0a8-42d6-9837-589b0aa0f75f" />
+
 ```
 
 **CPU Information** — `lscpu`
 ```
+<img width="665" height="810" alt="image" src="https://github.com/user-attachments/assets/58aa7605-5b4b-466b-815d-cbfb4e580426" />
+
 ```
 
 **Memory** — `free -h`
 ```
+<img width="662" height="65" alt="image" src="https://github.com/user-attachments/assets/6163e005-417c-42e6-bef8-63293e7b4b37" />
+
 ```
 
 **Disk Space** — `df -h`
 ```
+![Uploading image.png…]()
+
 ```
 
 ### If this Linux server were migrated to the cloud, which AWS, Azure, and GCP services could host it?
