@@ -37,7 +37,7 @@ As part of CloudNova Technologies' Cloud Evaluation Team, this lab explored AWS,
 
 **Disk Space** — `df -h`
 ```
-![Uploading image.png…]()
+<img width="663" height="130" alt="image" src="https://github.com/user-attachments/assets/727c36ca-0561-4a47-b171-b875856f3c8b" />
 
 ```
 
