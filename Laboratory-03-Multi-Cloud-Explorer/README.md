@@ -19,22 +19,18 @@ As part of CloudNova Technologies' Cloud Evaluation Team, this lab explored AWS,
 
 **Operating System** — `cat /etc/os-release`
 ```
-<!-- paste output -->
 ```
 
 **CPU Information** — `lscpu`
 ```
-<!-- paste output -->
 ```
 
 **Memory** — `free -h`
 ```
-<!-- paste output -->
 ```
 
 **Disk Space** — `df -h`
 ```
-<!-- paste output -->
 ```
 
 ### If this Linux server were migrated to the cloud, which AWS, Azure, and GCP services could host it?
