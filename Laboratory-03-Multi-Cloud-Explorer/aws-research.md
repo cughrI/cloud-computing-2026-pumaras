@@ -1,7 +1,5 @@
 AWS Research
 
-Screenshot reminder: add at least one screenshot of the AWS homepage (aws.amazon.com) or the AWS Management Console below, saved as screenshots/aws-console.png.
-
 Brief Overview
 
 Amazon Web Services (AWS) is the cloud computing platform operated by Amazon, launched in 2006. It was the first major public cloud provider and remains the market leader, offering the broadest catalog of cloud services of any provider — over 200 fully featured services covering compute, storage, databases, networking, machine learning, analytics, and more.
