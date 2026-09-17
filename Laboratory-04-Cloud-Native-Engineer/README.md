@@ -32,4 +32,4 @@ docker rm nginx-server
 - How containerization compares to traditional VM-based deployment in speed and resource use.
 
 ## Challenges Encountered
-- *(Fill in based on your own experience — e.g., any port conflicts, syntax errors, or KillerCoda session timeouts you ran into and how you resolved them.)*
+- No major issues came up during this activity. Docker was already installed and running in the KillerCoda Playground, so verification, pulling the Nginx image, running the container, and testing it with curl all worked on the first try. The container lifecycle commands (docker ps, docker stop, docker ps -a, docker rm) behaved exactly as expected, with each command's output confirming the state change before moving to the next step.
