@@ -51,4 +51,5 @@ This returns the "Welcome to nginx!" HTML page, confirming the container is serv
 | `docker ps -a` | Lists all containers, including stopped ones, to confirm `nginx-server` has an "Exited" status. |
 | `docker rm nginx-server` | Permanently removes the stopped container and its writable layer from the host. |
 
-*(Screenshot saved as `screenshots/container-lifecycle.png`)*
+<img width="658" height="210" alt="image" src="https://github.com/user-attachments/assets/c667bfe0-4dcc-4e3a-a5ee-96dce2a25b12" />
+
