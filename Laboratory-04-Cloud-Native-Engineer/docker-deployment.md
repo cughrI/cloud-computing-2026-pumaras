@@ -1,4 +1,4 @@
-<img width="545" height="197" alt="image" src="https://github.com/user-attachments/assets/ba8d454a-88a0-4163-bdd2-17107fc140d0" /># Docker Deployment Log
+# Docker Deployment Log
 
 ## Checkpoint 3 — Verify Docker Installation
 
