@@ -26,8 +26,11 @@ docker run -d -p 9000:9000 -p 9001:9001 --name minio-server \
 
 ## Screenshots
 
-- `<img width="1917" height="1017" alt="image" src="https://github.com/user-attachments/assets/190c3774-95ca-41c8-ac8f-37a2ae57d34b" />
+- <img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/c4f7d05a-d70c-4af4-ab96-a1e4e3750fab" />
+
 ` — terminal showing the container running.
-- `<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/1b88b646-4608-4db1-8473-59665cace069" />
+
+- <img width="1913" height="1015" alt="image" src="https://github.com/user-attachments/assets/6da8fcb7-76b6-4436-b605-abd2bd970367" />
+
 ` — MinIO console showing the `client-photos` bucket and uploaded file.
 
