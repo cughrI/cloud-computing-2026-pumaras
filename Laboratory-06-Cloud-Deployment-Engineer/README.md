@@ -23,12 +23,12 @@ docker-compose down
 ```
 
 ## Evidence
-![Deployment](<img width="956" height="907" alt="image" src="https://github.com/user-attachments/assets/9b5e70be-cbf1-40ba-93f7-633a0cbaced0" />
-)
-![Nextcloud](<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/3cbac8a1-5ab1-44f9-8477-6945703c9abe" />
-)
-![Teardown](<img width="952" height="906" alt="image" src="https://github.com/user-attachments/assets/d9beef51-e455-4525-a45b-54d409e24fac" />
-)
+![Deployment]<img width="956" height="907" alt="image" src="https://github.com/user-attachments/assets/9b5e70be-cbf1-40ba-93f7-633a0cbaced0" />
+
+![Nextcloud]<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/3cbac8a1-5ab1-44f9-8477-6945703c9abe" />
+
+![Teardown]<img width="952" height="906" alt="image" src="https://github.com/user-attachments/assets/d9beef51-e455-4525-a45b-54d409e24fac" />
+
 
 ## Skills Learned
 - Writing YAML configuration with correct indentation
