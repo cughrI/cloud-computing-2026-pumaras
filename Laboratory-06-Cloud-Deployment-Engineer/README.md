@@ -1,4 +1,4 @@
-<img width="952" height="906" alt="image" src="https://github.com/user-attachments/assets/2a6c2ab2-531c-4fea-9721-d9e629c4eaef" /># Laboratory 06 – The Cloud Deployment Engineer
+Deployment Engineer
 
 ## Mission Overview
 Deployed a two-tier private cloud storage system (Nextcloud + MariaDB) at CloudNova
